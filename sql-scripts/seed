@@ -1,0 +1,7 @@
+insert into bookmarks (title, url, description)
+  values
+  ('thinkful', 'https://thinkful.com', 'class website'),
+  ('google', 'https://google.com', 'literally the whole internet unless you count the dark web'),
+  ('reddit', 'https://reddit.com', 'the front page of the internet'),
+  ('notcot', 'https://notcot.com', 'inspiration for design'),
+  ('geekhack', 'https://www.geekhack.org', 'keyboard enthusiasm');
